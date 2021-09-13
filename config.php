@@ -15,7 +15,7 @@
     'engine' => NULL,
     'prefix_indexes' => true,
   ),
-  'url' => 'localhost:8080/dev_tabqa/public',
+  'url' => 'localhost:8080/dev_tabqa/public/abc',
   'paths' => 
   array (
     'api' => 'api',
