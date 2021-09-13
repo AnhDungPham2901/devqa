@@ -15,7 +15,7 @@
     'engine' => NULL,
     'prefix_indexes' => true,
   ),
-  'url' => 'http://dev.qa.tabbook.vn/public',
+  'url' => 'localhost:8080/dev_tabqa/public',
   'paths' => 
   array (
     'api' => 'api',
