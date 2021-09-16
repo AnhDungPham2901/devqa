@@ -21,6 +21,7 @@ $site = require '../site.php';
 | response, which could be a JSON document (for API responses) or a lot of HTML.
 |
 */
+/*this is for a.Dung test*/
 
 $server = new Flarum\Http\Server($site);
 $server->listen();
